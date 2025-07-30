@@ -1,0 +1,4 @@
+Environment variables loaded from .env
+Prisma schema loaded from prisma/schema.prisma
+Datasource "db": PostgreSQL database "ResumeMatch", schema "public" at "ep-bitter-frost-a5zjbufc.us-east-2.aws.neon.tech"
+
